@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Hoffmann</h1>
 <h2 align="center">I am a MERN Stack Developer</h2>
 
-<h2 align="center">My GitHub Stats:</h2>
+<h2 align="left">My GitHub Stats:</h2>
 <a href="https://github.com/Pehoffmann/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pehoffmann&show_icons=true&theme=radical" />
 </a>
@@ -13,7 +13,7 @@
 <h3 align="center">-  I'm used to moments of pressure at work and I know how to deal with it very well. I enjoy working as a team and studying hard. I always share new knowledge with my team.</h3>
 
 
-<h2 align="left">My GitHub Stats:</h2>   
+<h2 align="left">Most used languages:</h2>   
 <a href="https://github.com/Pehoffmann/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pehoffmann&show_icons=true&theme=radical" />
 </a>
