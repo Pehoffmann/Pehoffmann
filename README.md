@@ -24,8 +24,7 @@
   <a href="https://www.linkedin.com/in/pehoffmann/" target="_blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Pedro Hoffmann" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100003350256279" target="_blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Pedro Hoffmann" height="30" width="40" /></a>
   <a href="https://www.instagram.com/___hoffmann/" target="_blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="___hoffmann" height="30" width="40" /></a>
-  <a href="mailto:pedrob_hoffmann@outlook.com" target="_blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg
-  " alt="pedrob_hoffmann@outlook.com" height="30" width="40" /></a>
+  <a href="mailto:pedrob_hoffmann@outlook.com" target="_blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="pedrob_hoffmann@outlook.com" height="30" width="40" /></a>
 </p>
 
 
